@@ -16,7 +16,7 @@ Admin can enter course certificate codes , and details in the panel and user can
 Admin can enter course certificate codes , and details in the panel and user can verify their certificate using the course code in the front end.
 
 1. To install the SegWitz Course Certificate Verification plugin click “Download” or download the plugin from this GitHub repo.
-– To install the plugin after downloading it via GitHub, navigate to Plugins → Add New → Upload Plugin and upload the segwitz course certificate verification.zip file.
+– To install the plugin after downloading it via GitHub, navigate to Plugins → Add New → Upload Plugin and upload the  course certificate verification.zip file.
 2. Once you’ve installed the plugin, activate it through the WordPress plugin panel.
 3. Please navigate to the Certificate Codes menu inside of your WordPress admin panel after activating, and enter the information of the certificate.
 5. After you’re done, copy and paste this shortcode: [get_certificate_search_form] in the page you want to display the search bar of the codes.
@@ -48,4 +48,4 @@ Admin can enter course certificate codes , and details in the panel and user can
 
 == Upgrade Notice ==
 
-Contact us at hello@segwitz.com
+Contact us atinfo@puthiyidathu.in
